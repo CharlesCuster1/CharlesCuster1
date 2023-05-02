@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, my name is Chip Custer 👋
+I'm an Business Analytics and Management student at the University of Iowa.
 
 <!--
 **CharlesCuster1/CharlesCuster1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
